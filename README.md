@@ -28,7 +28,7 @@ TBH unclear but likely:
 
 - Node.js / Flutter SDK / Xcode / Android Studio (depending on stack)
 - Git
-- [Any additional dependencies]
+- [TBD any additional dependencies]
 
 ### Installation
 
@@ -36,3 +36,4 @@ TBH unclear but likely:
    ```bash
    git clone https://github.com/your-username/your-app.git
    cd your-app
+
